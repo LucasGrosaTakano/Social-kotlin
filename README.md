@@ -1,3 +1,6 @@
+Cartão de Visita Digital do Cristiano Ronaldo:
+
+```
 package com.example.cartodevisitasdigital
 
 import android.os.Bundle
@@ -106,7 +109,8 @@ fun Foto(modifier: Modifier = Modifier){
 
     Image(
         painter = painterResource(id = R.drawable.ronaldo),
-        contentDescription = stringResource(id = R.string.ronaldo_lindao),
+        contentDescription = stringResource(id = R.string.cristiano),
         modifier = imagem
     )
 }
+´´´
